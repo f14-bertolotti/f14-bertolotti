@@ -25,6 +25,8 @@ Some of the projects I’ve contributed to:
 - 🔧 **[opencompass](https://github.com/open-compass/opencompass)**
 - ⚡ **[lighteval](https://github.com/huggingface/lighteval)**
 - 🚀 **[vllm](https://github.com/vllm-project/vllm)**
+- 🦥 **[unsloth](https://github.com/unslothai/unsloth)**
+- 🧱 **[torchtitan](https://github.com/pytorch/torchtitan)**
 
 ---
 
