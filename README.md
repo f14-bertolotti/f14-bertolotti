@@ -30,4 +30,10 @@ Some of the projects I’ve contributed to:
 
 ---
 
+## 🎭 Alt Account
+
+If you want to follow what I do in open-source. At the moment, I am using much more the work [profile](https://github.com/francesco-bertolotti).
+
+---
+
 Thanks for stopping by! If any of my work or repos spark your interest, feel free to reach out—or open an issue/PR. Always happy to chat tech, research/
